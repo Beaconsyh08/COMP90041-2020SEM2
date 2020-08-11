@@ -8,7 +8,7 @@ By **@Yuhao Song**
   * Solution written by me (not official answer from the Uni)
   * Demo code for important points
 
-## **Planned Schedule**
+## **Planned Schedule (Subject to Change)**
   * Tue(18) 16:15-17:15 (Melbourne Time)
   * Wed(19) 17:15-18.15 (Melbourne Time)
 
