@@ -3,7 +3,7 @@ The [tutorial-material repository](https://beaconsyh08.github.io/COMP90041-2020S
 By **@Yuhao Song**  
 
 ## **Discord Server** ##
-https://discord.gg/gzJD36t
+https://discord.gg/UytM452
 
 ## **Structures**
   * Tutorial handout
