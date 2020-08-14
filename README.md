@@ -1,7 +1,10 @@
 # COMP90041 Tutorials 2020SEM2
 The [tutorial-material repository](https://beaconsyh08.github.io/COMP90041-2020SEM2/) is prepared for [Programming and Software Development COMP90041](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at [The University of Melbourne](https://www.unimelb.edu.au/)
 By **@Yuhao Song**  
- 
+
+## **Discord Server** ##
+https://discord.gg/gzJD36t
+
 ## **Structures**
   * Tutorial handout
   * Tutorial slides
