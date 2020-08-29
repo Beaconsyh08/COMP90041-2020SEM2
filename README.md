@@ -2,6 +2,9 @@
 The [tutorial-material repository](https://beaconsyh08.github.io/COMP90041-2020SEM2/) is prepared for [Programming and Software Development COMP90041](https://handbook.unimelb.edu.au/2020/subjects/comp90041) at [The University of Melbourne](https://www.unimelb.edu.au/)
 By **@Yuhao Song**  
 
+## **LAB03 GIT & GITHUB SUP VIDEO** ##
+https://www.youtube.com/watch?v=Sfxt7r0O5xA
+
 ## **Discord Server** ##
 https://discord.gg/UytM452
 
