@@ -1,0 +1,7 @@
+Make sure to fill in the following information regarding authorship:
+
+Your full name: Yuhao Song
+Your username (from Canvas, e.g., yourname@student.unimelb.edu.au): yuhsong
+Github repository link: https://github.com/COMP90041/assignment-1-Beaconsyh08
+
+By submitting work for assessment I hereby declare that I understand the University’s policy on academic integrity and that the work submitted is original and solely my work, and that I have not been assisted by any other person (collusion) apart from where the submitted work is for a designated collaborative task, in which case the individual contributions are indicated. I also declare that I have not used any sources without proper acknowledgment (plagiarism). Where the submitted work is a computer program or code, I further declare that any copied code is declared in comments identifying the source at the start of the program or in a header file, that comments inline identify the start and end of the copied code, and that any modifications to code sources elsewhere are commented upon as to the nature of the modification.
