@@ -24,7 +24,7 @@ https://discord.gg/UytM452
 | 2   | [Lab 2: Basics of Java](Lab02)  | Aug 18 |
 | 3   | [Lab 3: Git & GitHub](Lab03)  | Aug 25 |
 | 4   | [Lab 4: Java Classes](Lab04) | Sep 1 |
-| 5   | [Lab 5: Java Classes (continued)](Lab05) | Sep 8 |
+| 5   | [Lab 5: Java Classes II](Lab05) | Sep 8 |
 | 6   | [Lab 6: Arrays](Lab06) | Sep 15 |
 | 7   | [Lab 7: Arrays Practice & Inheritance Concept](Lab07) | Sep 22 |
 | 8   | [Lab 8: Inheritance Practice](Lab08) | Sep 29 |
