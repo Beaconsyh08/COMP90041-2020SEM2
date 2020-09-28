@@ -9,10 +9,10 @@ https://www.youtube.com/watch?v=Sfxt7r0O5xA
 https://discord.gg/UytM452
 
 ## **Structures**
-  * Tutorial handout
+  * Tutorial handouts
   * Tutorial slides
   * Solution written by me (not official answer from the Uni)
-  * Demo code for important points
+  * Demo code for the key concepts
 
 ## **Planned Schedule (Subject to Change)**
   * Tue(18) 16:15-17:15 (Melbourne Time)
