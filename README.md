@@ -30,7 +30,7 @@ https://discord.gg/UytM452
 | 8   | [Lab 8: Inheritance II & Polymorphism](Lab08) | Sep 29 |
 | 9   | [Lab 9: Exception](Lab09) | Oct 13 |
 | 10  | [Lab 10: Abstraction & Interface](Lab10) | Oct 20 |
-| 11  | [Lab 11: Consultation (Perhaps Mechanism)](Lab11) | Oct 27 |
+| 11  | [Lab 11: Final Project & Java Mechanism)](Lab11) | Oct 27 |
 
 |Project| Topic                 | Date     |
 |:---:|:---------------------:|:--------:|
