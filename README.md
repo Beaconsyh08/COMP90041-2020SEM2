@@ -67,11 +67,11 @@ https://discord.gg/UytM452
 | 4   | [Lab 4: Java Classes](Lab04) | Sep 1 |
 | 5   | [Lab 5: Java Classes II](Lab05) | Sep 8 |
 | 6   | [Lab 6: Arrays](Lab06) | Sep 15 |
-| 7   | [Lab 7: Arrays Practice & Inheritance Concept](Lab07) | Sep 22 |
-| 8   | [Lab 8: Inheritance Practice](Lab08) | Sep 29 |
-| 9   | [Lab 9](Lab09) | Oct 13 |
-| 10  | [Consultation](Lab10) | Oct 20 |
-| 11  | [Consultation](Lab11) | Oct 27 |
+| 7   | [Lab 7: Arrays II & Inheritance](Lab07) | Sep 22 |
+| 8   | [Lab 8: Inheritance II & Polymorphism](Lab08) | Sep 29 |
+| 9   | [Lab 9: Exception](Lab09) | Oct 13 |
+| 10  | [Lab 10: Abstraction & Interface](Lab10) | Oct 20 |
+| 11  | [Lab 11: Consultation (Perhaps Mechanism)](Lab11) | Oct 27 |
 
 |Project| Topic                 | Date     |
 |:---:|:---------------------:|:--------:|
