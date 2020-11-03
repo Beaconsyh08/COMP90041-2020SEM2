@@ -36,4 +36,4 @@ https://discord.gg/UytM452
 |:---:|:---------------------:|:--------:|
 | 1   |  [Assignment 1](Assignment1)   | Sep 8 |
 | 2   |  [Assignment 2](Assignment2)   | Sep 29 |
-| 3   |  [Final Project](ProjF)  | TBC |
+| 3   |  [Final Project](ProjF)  | Oct 27 |
